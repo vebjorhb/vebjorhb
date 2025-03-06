@@ -28,7 +28,7 @@ Python scripts for reproducing the numerical results are available [here](https:
 The scripts build on existing methods from the [qmodel](https://github.com/magmage/qmodel) package. 
 
 ## *Quantum-electrodynamical density-functional theory for the Dicke Hamiltonian*
-[![](https://img.shields.io/badge/arxiv-2409.13767-red?logo=arXiv)](https://arXiv.org/abs/2409.13767) 
+[![](https://img.shields.io/badge/arXiv-2409.13767-red?logo=arXiv)](https://arxiv.org/abs/2409.13767) 
 
 Authors: Vebjørn H. Bakkestuen, Mihály A. Csirik, Andre Laestadius, and Markus Penz. (Submitted September 2024)
 
