@@ -20,17 +20,19 @@ Supporting information: Code and data avaliable on [GitHub](https://github.com/m
 [![](https://img.shields.io/badge/doi-10.1021%2Facs.jpca.4c07690-blue)](https://doi.org/10.1021/acs.jpca.4c07690) [![](https://img.shields.io/badge/arXiv-2411.15256-red?logo=arXiv)
 ](https://arxiv.org/abs/2411.15256) 
 
-*J. Phys. Chem. A 2025, 129, 9, 2337–2360*
+*Journal of Physical Chemisty A 2025, 129, 9, 2337–2360*
 
 Authors: Vebjørn H. Bakkestuen, Vegard Falmår, Maryam Lotfigolian, Markus Penz, Michael Ruggenthaler, and Andre Laestadius
 
 Python scripts for reproducing the numerical results are available [here](https://github.com/VegardFalmaar/QEDFT-Quantum-Rabi-Code).
 The scripts build on existing methods from the [qmodel](https://github.com/magmage/qmodel) package. 
 
-## *Quantum-electrodynamical density-functional theory for the Dicke Hamiltonian*
-[![](https://img.shields.io/badge/arXiv-2409.13767-red?logo=arXiv)](https://arxiv.org/abs/2409.13767) 
+## *Density-Functional Theory for the Dicke Hamiltonian*
+[![](https://img.shields.io/badge/doi-10.1007%2Fs10955--025--03442--9-blue)](https://doi.org/10.1007/s10955-025-03442-9) [![](https://img.shields.io/badge/arXiv-2409.13767-red?logo=arXiv)](https://arxiv.org/abs/2409.13767) 
 
-Authors: Vebjørn H. Bakkestuen, Mihály A. Csirik, Andre Laestadius, and Markus Penz. (Submitted September 2024)
+*Journal of Statistical Physics, 192, 61 (2025)*
+
+Authors: Vebjørn H. Bakkestuen, Mihály A. Csirik, Andre Laestadius, and Markus Penz.
 
 
 <!---
