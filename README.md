@@ -10,9 +10,11 @@ PhD Research Fellow in applied mathematics at OsloMet – Oslo Metropolitan Univ
 
 # Research
 ## *Kohn–Sham inversion with mathematical guarantees*
-[![](https://img.shields.io/badge/arXiv-2409.04372-red?logo=arXiv)](https://arxiv.org/abs/2409.04372) 
+[![](https://img.shields.io/badge/doi-10.1103%2FPhysRevB.111.205143-blue)](https://doi.org/10.1103/PhysRevB.111.205143)  [![](https://img.shields.io/badge/arXiv-2409.04372-red?logo=arXiv)](https://arxiv.org/abs/2409.04372) 
 
-Authors: Michael F. Herbst, Vebjørn H. Bakkestuen, and Andre Laestadius. (Submitted March 2025)
+*Physical Review B 111, 205143 (2025)*
+
+Authors: Michael F. Herbst, Vebjørn H. Bakkestuen, and Andre Laestadius. 
 
 Supporting information: Code and data avaliable on [GitHub](https://github.com/mfherbst/supporting-my-inversion/tree/master)
 
